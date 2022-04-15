@@ -92,6 +92,8 @@ basic.forever(function () {
     }
 })
 ```
+Demo  [https://github.com/microbit-cz/pxt-mikado-demo-easy](https://github.com/microbit-cz/pxt-mikado-demo-easy)
+
 
 ### Mikádo s použitím vlastní metody
 
@@ -149,5 +151,6 @@ basic.forever(function () {
     }
 })
 ```
+Demo  [https://github.com/microbit-cz/pxt-mikado-demo-hard](https://github.com/microbit-cz/pxt-mikado-demo-hard)
 
 
